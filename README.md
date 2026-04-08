@@ -1,2 +1,9 @@
-# Food-Delivery-Website
-Food delivery web application that enables users to browse menus, select items, and place orders seamlessly. Built with ReactJS, HTML, CSS, and Firebase, featuring an intuitive UI/UX, efficient data handling, and smooth user experience for online food ordering.
+> ✨ **Note:** This is an opensource Web Application for [Food Devlivery](https://react-quick-food.firebaseapp.com/).
+
+### [Live demo](https://react-quick-food.firebaseapp.com/)
+
+## Getting Started
+
+- Install dependencies by running `yarn` or `npm install`.
+- Run `yarn start` or `npm run start` to start the local development server.
+- 😎 That's it! You're ready to start building awesome application.
